@@ -1,4 +1,4 @@
-# 17/06/2025 - Inicio do curso de Introdução a Banco de dados - IFRS
+# 24/06/2025 - Inicio do curso de Introdução a Banco de dados - IFRS
 
 
 
