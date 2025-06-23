@@ -1,4 +1,4 @@
-# 17/06/2025 - Inicio do curso de DevOps.
+# 27/09/2025 - Inicio do curso de DevOps.
 
 - Fundamentos de Rede	
 - Aprenda tudo sobre linux	

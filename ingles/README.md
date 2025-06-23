@@ -1,4 +1,4 @@
-# 17/06/2025 - Inicio do curso de Inglês.
+# 24/06/2025 - Inicio do curso de Inglês.
 
 ### ILLUSTRATED DICTIONARY
 
