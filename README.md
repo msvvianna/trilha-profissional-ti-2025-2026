@@ -9,72 +9,106 @@
 
 ## 🧭 Visão Geral da Trilha
 
-| Área                    | Foco Principal                                     | Tecnologias/Ferramentas         |
-|-------------------------|----------------------------------------------------|---------------------------------|
-| **Cloud**              | Arquitetura e serviços AWS                         | EC2, S3, RDS, Lambda, IAM, VPC  |
-| **DevOps**             | Infraestrutura como Código, Observabilidade        | Docker, Terraform, GitHub Actions, Zabbix, Grafana |
-| **Java & Backend**     | Desenvolvimento de APIs e microsserviços           | Java, Spring Boot, JPA, Hibernate, MySQL |
-| **Arquitetura de Software** | Design, padrões e boas práticas              | Clean Architecture, DDD, TDD, SOLID, Maven |
+| Módulo                | Conteúdos Principais                                                                        |
+|----------------------|---------------------------------------------------------------------------------------------|
+| **1. Inglês**         | Prof. Kenny, Mairo Vergara                                                                  |
+| **2. Banco de Dados** | Fundamentos de Banco de Dados IFRS, Administrador de Banco de Dados                         |
+| **3. Cloud**          | AWS (Kasolution, Cantrill), DevOps AWS, AWS Solution Architect – Professional              |
+| **4. Python & IA**    | Python, FastAPI, Streamlit, Estatística, Álgebra Linear, Machine Learning, Séries Temporais |
+| **5. FullCycle**      | Arquitetura de Software                                                                     |
+| **6. Essencial**      | Redes, Linux, Shell Script, Git & GitHub                                                    |
+| **7. Containers**     | Docker, Kubernetes (CKA, CKAD, CKAS), Helm                                                  |
+| **8. IaC**            | Ansible, Terraform                                                                          |
+| **9. Monitoramento**  | Prometheus, Grafana Loki, ELK, Jenkins, Vault                                               |
+| **10. Java**          | Java, Spring Boot, APIs REST, Microserviços, Kafka, TDD, Angular, Scrum                     |
 
 ---
 
-## 🗓️ Linha do Tempo de Estudos
+## 📚 Livros por Área
+
+### 🧠 TI Geral
+- Entendendo Algoritmos  
+- Git e GitHub  
+- GitOps  
+- Desconstruindo a Web  
+- Microsserviços Prontos para Produção  
+- SQL para Análise de Dados  
+- Machine Learning Guia de Referência Rápida  
+- Análise Prática de Séries Temporais  
+- Aprendizado de Máquina com Scikit-Learn, Keras e TensorFlow  
+
+### 🐍 Python
+- Python (Fatec)  
+- Python (Luciano Ramalho)  
+- Cálculo Diferencial e Integral para ML  
+- Modelagem Matemática com Python  
+- Redes Neurais Artificiais  
+- Otimização de Hiperparâmetros  
+- Estatística para Análise de Dados  
+- Análise de Regressões  
+- Séries Temporais com Python  
+
+### ☕ Java
+- Introduction to Java Programming and Data Structures  
+- Estrutura de Dados e Algoritmos com Java  
+- Código Limpo  
+- Refatoração  
+- Desenvolvimento Guiado por Testes  
+- Use a Cabeça! Padrões de Projeto  
+- Design Patterns com Java / GoF  
+- Introdução à Arquitetura e Design  
+- Fundamentos da Arquitetura de Software  
+- Arquitetura de Software: As Partes Difíceis  
+- Arquitetura Limpa  
+- Aprenda DDD  
+- Domain-Driven Design (original)  
+- Implementando DDD  
+
+### 📊 Matemática
+- Matemática Fundamental – Gelson Iezzi  
+- Pré-Cálculo  
+- Cálculo I e II – James Stewart  
+- Álgebra Linear  
+
+---
+
+## 📌 Linha do Tempo Planejada
 
 ### 2º Semestre 2025
-- [ ] ✅ AWS Solutions Architect – Associate (SAA-C03)
-- [ ] ✅ Estrutura de Dados e Algoritmos com Java (Loiane)
-- [ ] ⏳ Java Completo
-- [ ] ⏳ API REST com Spring Boot
-- [ ] ⏳ Docker e Deploy de APIs
+- [ ] AWS Certified Solutions Architect – Professional  
+- [ ] Java Completo + Spring Boot + TDD  
+- [ ] Docker, Kubernetes e CI/CD  
+- [ ] Estatística com Python  
+- [ ] Projetos com FastAPI + Streamlit  
+- [ ] Terraform, Ansible, Prometheus  
 
 ### 1º Semestre 2026
-- [ ] ⏳ AWS Certified Developer – Associate
-- [ ] ⏳ DevOps Engineer – Professional
-- [ ] ⏳ Projetos com MLOps (FastAPI + TensorFlow + CI/CD)
-- [ ] ⏳ Padrões de Projeto em Java
-- [ ] ⏳ Projeto Spring + Docker + Observabilidade
-
-### 2026 – Consolidação e Especialização
-- [ ] ⏳ AWS Machine Learning – Specialty
-- [ ] ⏳ Pós ou Especialização em IA/MLOps
-- [ ] ⏳ Projetos avançados: Microserviços + IA em produção
+- [ ] DevOps Professional + MLOps na AWS  
+- [ ] Projetos com microserviços em Java + Kafka  
+- [ ] Jenkins + Observabilidade com ELK/Grafana  
+- [ ] Machine Learning com Python + TensorFlow  
+- [ ] Arquitetura de Software (Clean Arch, DDD)  
+- [ ] Angular + API REST com segurança  
 
 ---
 
-## 📚 Cursos & Certificações
-
-### ✅ Já Concluídos
-- AWS Solutions Architect – Associate
-- Estrutura de Dados e Algoritmos (Loiane)
-
-### 📖 Em Andamento
-- Java Completo (Nélio)
-- API REST com Spring Boot
-- Especialista JPA- Docker & CI/CD para Spring
-
-### 🎯 Planejados
-- AWS DevOps Professional  
-- TDD com Java (JUnit 5 + Mockito)  
-- Clean Architecture & DDD
-
----
-
-## 🛠️ Tecnologias da Trilha
+## 🛠️ Tecnologias Estudadas
 
 **Cloud & DevOps**
-- AWS (EC2, S3, RDS, Lambda, IAM, VPC, etc.)
-- Terraform, Docker, GitHub Actions
-- Zabbix, Grafana, Filebeat, Elasticsearch
+- AWS, Docker, Kubernetes, Terraform, Ansible  
+- Prometheus, Grafana Loki, ELK, Jenkins, Vault  
 
 **Desenvolvimento Backend**
-- Java, Spring Boot, Spring Security
-- MySQL, MongoDB, JPA/Hibernate
-- API REST, JWT, Swagger
+- Java, Spring Boot, JPA, Hibernate  
+- API REST, JWT, Swagger, Kafka, MongoDB, MySQL  
 
-**IA/MLOps**
-- Python, Pandas, Numpy
-- Scikit-learn, TensorFlow, Keras
-- FastAPI, MLflow, Kubeflow
+**Python & IA**
+- Python, Pandas, Numpy, Scikit-learn, TensorFlow, Keras  
+- FastAPI, Streamlit, Séries Temporais, Estatística  
+
+**Fundamentos Essenciais**
+- Redes de Computadores, Linux, Shell Script  
+- Git, GitHub, GitOps  
 
 ---
 
@@ -84,25 +118,28 @@
 |----------------------------------|---------------------------------------------------------------------------|----------|
 | `infra-monitor`                  | Coleta e visualização de eventos de rede com Zabbix + Grafana            | ✅ Concluído |
 | `controle-estofados`            | API REST com FastAPI + MySQL para controle de estoque e agendamentos     | ✅ Concluído |
-| `ml-predict-reincidencias`      | Identificação de padrões de eventos reincidentes no Zabbix com ML        | 🚧 Em andamento |
-| `springboot-monitoring-api`     | API Java com Spring Boot + Observabilidade (Elastic, Filebeat)           | 📝 Planejado |
-| `pipeline-mlops-aws`            | Pipeline completo de MLOps na AWS (S3, Lambda, SageMaker, etc.)          | 📝 Planejado |
+| `ml-predict-reincidencias`      | Identificação de padrões de eventos reincidentes com ML                  | 🚧 Em andamento |
+| `springboot-monitoring-api`     | API Java com observabilidade (Elastic, Filebeat)                          | 📝 Planejado |
+| `pipeline-mlops-aws`            | Pipeline MLOps com S3, Lambda, SageMaker, etc.                            | 📝 Planejado |
 
 ---
 
-## 🧠 Estratégia de Estudo
+## 🎯 Estratégia de Estudo
 
-- Estudo técnico focado em **projetos reais**
-- Metodologia: **Aprender > Aplicar > Compartilhar**
-- Registros semanais com *checkpoints* e *retrospectivas*
-- Repositório dividido por: `/cursos`, `/projetos`, `/certificacoes`, `/anotacoes`
+- **Aprender na prática** com projetos reais e aplicados  
+- Método contínuo: **Aprender > Praticar > Consolidar > Compartilhar**  
+- Organização modular com progresso registrado por área  
+- Repositório dividido em `/arquiteturaDeSoftware`, `/bancoDeDados`, `/cloud`, `/devops`, `/cloud`, `/python`, `/java`
 
 ---
 
-## 📌 Como navegar
+## 🗂️ Organização do Repositório
 
 ```bash
-/cursos              # Resumos e códigos dos cursos
-/projetos            # Projetos desenvolvidos
-/certificacoes       # Roteiros e materiais de preparação
-/anotacoes           # Anotações de livros, aulas e artigos
+/arquiteturaDeSoftware   # Conteúdos e projetos relacionados à arquitetura de software
+/bancoDeDados            # Estudos sobre bancos relacionais, modelagem e administração
+/cloud                   # AWS, soluções em nuvem, infraestrutura e certificações
+/devops                  # Ferramentas, práticas e automações DevOps (CI/CD, Monitoramento, IaC)
+/ingles                  # Material de estudo para leitura e fluência técnica em inglês
+/python                  # Python aplicado a Data Science, ML, APIs e scripts
+/java                    # Desenvolvimento backend com Java, Spring Boot, TDD, microserviços
