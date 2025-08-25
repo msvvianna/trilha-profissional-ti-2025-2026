@@ -1,0 +1,396 @@
+Bem -vindo e neste vídeo,
+Eu quero falar sobre certificações da AWS.
+AWS tem uma gama completa de certificações em muitos níveis
+E com vários fluxos,
+Saber por onde começar é frequentemente um desafio.
+E mesmo quando você tem esse primeiro certificado
+Conhecendo uma rota eficiente
+até o endpoint desejado, não é trivial.
+Então, neste vídeo primeiro,
+Eu quero explicar como começar.
+Então eu quero falar sobre alguns caminhos comuns
+através dos vários certificados.
+E finalmente, quero falar sobre os certificados especializados
+E como a dificuldade deles se compara a todo o resto.
+Agora isso é muito para cobrir, então vamos entrar e começar.
+Agora, esta é uma visão geral do layout atual
+das certificações da AWS.
+Parece que toda vez que eu gravo um desses vídeos,
+Um novo certificado é adicionado.
+Então, veremos quanto tempo isso dura.
+Você pode olhar para as certificações da AWS
+como tendo quatro níveis principais de dificuldade.
+Começando com o mais fácil, o nível do praticante,
+depois se movendo pelo associado para então profissional
+e finalmente para especialidade.
+AWS tem uma recomendação oficial
+Que a maioria das pessoas começa com a nuvem
+Certificação de profissionais.
+Agora isso é marcado como um certificado fundamental,
+que requer seis meses de conhecimento da indústria da AWS.
+Agora eu discordo para a maioria das pessoas.
+Na verdade, recomendo contra estudar especificamente,
+Para o praticante de nuvem.
+Para explicar o porquê, vamos começar com uma das minhas crenças centrais.
+Quando você deseja passar uma certificação,
+Existem dois componentes.
+Primeiro, é o estudo,
+A parte que você obtém o conhecimento que esse certificado exige.
+E isso, na minha opinião, é a parte valiosa.
+A parte que permite fazer um trabalho trabalhando com a AWS.
+Segundo, é a tomada real do exame
+e obtendo o resultado oficial.
+Então essas duas coisas são diferentes
+E você precisa tratá -los como tal.
+Agora sou um completista e não estou sugerindo
+que você não passa a certificação do praticante de nuvem.
+Eu fiz, mas para mim foi o meu oitavo ou o nono
+Certificação da AWS.
+E eu queria apenas, então eu poderia dizer que tenho todos eles.
+O que estou sugerindo é que você não estuda especificamente
+A razão é que, com qualquer bom curso,
+estudando para o arquiteto associado
+darei a você todo o conhecimento que você precisa
+Para passar no praticante de nuvem também.
+E porque há uma grande sobreposição
+Se você estudar para o praticante de nuvem
+e depois estudar para o arquiteto associado,
+Você está duplicando parte desse estudo,
+Essencialmente, você está perdendo tempo.
+Agora, o tempo é a única coisa não substituível que temos.
+E então estou muito sério sobre ser eficiente
+com o uso do meu tempo e meus alunos.
+Então minha sugestão é que, para quase todos,
+Mesmo se você é novo em nuvem ou novo na AWS,
+que você começa com o arquiteto de soluções,
+nível associado de certificação.
+Muitos de nós que trabalhamos com a AWS há anos
+e estudando para certificações por tanto tempo,
+não tinha a opção de começar
+com a certificação do praticante de nuvem.
+Não estava disponível quando comecei a estudar, por exemplo.
+Então, se você começar com o arquiteto associado,
+Então isso lhe ensinará o suficiente para que você possa
+Basta fazer o exame de associado de arquiteto
+ou tanto isso quanto o praticante de nuvem.
+Agora não posso falar por todas as soluções arquiteto
+curso associado no mercado,
+Mas o meu foi projetado para que você possa levá -lo
+sem conhecimento pré-existente.
+Eu quero que os alunos economizem tempo, não estudando duas vezes
+e economize o custo para dois cursos diferentes.
+Mais do que isso, porém,
+o Solutions Architect Associate
+é uma certificação bem reconhecida.
+E porque meus cursos ensinam as habilidades a trabalhar
+nesse papel,
+você aumenta suas chances de um novo emprego ou uma promoção
+obtendo o Solutions Architect Associate
+versus o praticante de nuvem.
+Então, se você é novo na nuvem ou na AWS,
+Ou você tem alguma experiência em 99% dos casos,
+é sempre a área certa para você começar,
+Pense nisso como o ponto de entrada eficiente na AWS.
+Agora você pode receber outros conselhos de amigos
+ou família ou colegas ou até outros instrutores
+E até aws,
+Não estou dizendo para ignorar esse conselho,
+Mas eu trabalhei na AWS por cerca de uma década.
+Eu mantive todas as certificações da AWS
+e ensinou centenas de milhares de estudantes.
+E eu não posso recomendar o suficiente para começar
+com a certificação de associada de arquitetos de soluções
+e inicialmente ignorar o praticante.
+Mas e depois disso?
+Bem, essa é uma discussão mais interessante.
+Você pode dividir as certificações da AWS em dois agrupamentos principais.
+Primeiro, as certificações baseadas em função
+E estes são projetados em torno de um determinado tipo de trabalho.
+Então eles anexaram uma gama mais ampla de conhecimento necessário
+para fazer um papel específico.
+E isso pode ser arquitetônico, operacional,
+ou desenvolvimento na natureza.
+Geralmente, essas são as certificações
+que você aborda primeiro.
+Para 90% das pessoas, essas são as certas para começar.
+Existem algumas exceções que abordarei em breve,
+Mas a maioria das pessoas terá muito mais facilidade
+fazendo as certificações baseadas em função primeiro.
+Segundo, você tem as certificações especializadas
+E estes são muito mais estreitos
+em termos dos requisitos de conhecimento,
+mas também muito mais profundo.
+Eles foram projetados para provar que você tem
+A profunda habilidade necessária para ser especialista.
+E exemplos incluem um engenheiro de rede sênior,
+até um cientista de dados da AWS.
+Os certificados especializados na maioria dos casos devem ser deixados até o fim,
+Se você já tem habilidades fortes
+em uma das áreas cobertas,
+Você pode considerá -los mais cedo,
+Mas geralmente há muito a aprender
+em cada uma das certificações especializadas
+E eles são muito mais fáceis de enfrentar
+Se você tem o conhecimento geral
+que você vai pegar enquanto estuda
+Para as certificações baseadas em função.
+Agora eu quero tentar mostrar esse conceito visualmente,
+Porque eu acho que isso irá ajudá -lo a entender conceitualmente
+Como os vários certificados se encaixam.
+Agora, à esquerda, com a menor quantidade de conhecimento e habilidade
+Requisitos, é o praticante de nuvem.
+Como restante, este é o que eu não recomendo
+estudando especificamente.
+Em seguida, são as certificações de nível de associado.
+E estes contêm o conhecimento do praticante,
+mas camada em cima disso,
+Requisitos específicos de associado adicionais.
+Então, em termos de profundidade,
+O associado exige que você saiba mais.
+Em termos de cobertura, não há tantos tópicos novos introduzidos,
+É apenas detalhes adicionais versus o praticante de nuvem.
+Em nível profissional
+Isso segue um padrão semelhante com uma diferença -chave.
+Você começará com uma base semelhante,
+o praticante e depois o associado.
+Mas, além disso, o nível profissional
+requer mais profundidade e mais amplitude.
+Você precisará saber mais sobre os mesmos produtos
+que você cobriu no nível associado,
+Mas também você precisará conhecer mais produtos.
+E isso inclui seus recursos de arquitetura
+e como integrá -los para projetos.
+Então temos as especialidades e está aqui
+Onde muitos estudantes não entendem conceitualmente
+onde as certificações especializadas se encaixam.
+Em primeiro lugar, eles são tecnicamente mais profundos
+do que os certificados profissionais,
+Mas também eles são mais estreitos.
+Se você está adotando a especialidade avançada de rede,
+Por exemplo, então você não precisa ter uma consciência
+dos produtos de aprendizado de máquina,
+Mas você precisa de uma consciência muito mais profunda
+dos produtos e recursos de rede da AWS.
+Agora, eu gosto de pensar nas certificações especializadas
+como tendo uma divisão 50 50
+entre o assunto específico de especialidade, digamos, a rede,
+E então as habilidades da AWS.
+E as habilidades da AWS precisam estar em algum lugar
+entre um associado e um nível profissional.
+Agora eu recomendo isso para tornar isso factível
+Ao começar a estudar para um certificado profissional,
+Então você é hábil na área específica
+dessa certificação especializada
+Ou você tem habilidades da AWS ou para o nível profissional.
+É muito raro que eu recomendaria alguém levar
+um certificado especial até que eles tenham
+suas soluções arquitetacia profissional.
+Eu gosto de pensar no profissional de arquiteto soluções
+Como base para todas as especialidades
+Da mesma maneira que eu acho
+da Solutions Architect Associate
+Como base para todas as certificações baseadas em função
+dentro da AWS.
+Agora vamos acabar rapidamente de falar sobre o pedido
+das certificações.
+Não há resposta certa quando se trata de qual ordem
+Para abordar as certificações da AWS.
+Existem rotas que as pessoas recomendam
+rotas tradicionais,
+que eles adotaram através das várias certificações,
+Mas com toda a honestidade, tudo é possível.
+Depende do resultado desejado
+E quanto esforço você está disposto a colocar.
+O que vou dizer é isso,
+Você deve começar cem por cento no nível do associado.
+Eu mencionei algumas vezes,
+Não sou fã de estudar para o exame de praticantes.
+E assim, na maioria dos casos,
+Eu começaria pulando o nível do praticante.
+O nível de associado é onde os empregadores começam a perceber.
+E na minha opinião, também é onde começa a se divertir,
+Qualquer que seja sua função atual,
+Eu também recomendaria sempre começar
+com o Solutions Architect Associate.
+A arquitetura está no centro de tudo o mais
+E também é o nível de associado mais fácil
+certificação.
+Começar com qualquer um dos outros não faz sentido,
+Mesmo se você é um desenvolvedor ou trabalho em operações,
+Você acabará estudando com menos eficiência
+Porque ambos as outras certificações associadas
+confiar na arquitetura.
+Agora da perspectiva do exame,
+O formato é de múltipla escolha ou resposta múltipla.
+Você tem um total de 130 minutos
+e o custo é de 150 dólares dos EUA.
+Agora perguntas no nível do associado
+tendem a estar entre uma linha e duas a três linhas.
+E então você geralmente tem quatro ou cinco respostas
+cada uma de uma linha cada.
+Então é isso que esperar no nível do associado.
+Depois de ter o exame de arquitetura associado,
+Então é aqui que você tem uma escolha.
+Historicamente, a rota recomendada
+era sempre fazer o desenvolvedor associado a seguir
+e depois siga isso com o Sysops Associate.
+O desenvolvedor associado não é um exame,
+que requer qualquer experiência de desenvolvimento.
+Em vez disso, testa você em produtos e recursos
+que os desenvolvedores usarão.
+Na prática, isso significa que o exame é muito parecido
+o Associado do Arquiteto de Soluções,
+Mas com alguns extras como o DynamoDB, Sqs,
+Elastic Beanstalk e muito mais.
+A sobreposição torna bastante eficiente fazer o desenvolvedor
+Logo após o arquiteto de soluções.
+O formato do exame do desenvolvedor associado
+é semelhante em estilo ao arquiteto de soluções,
+O formato é de múltipla escolha e resposta múltipla.
+Agora, o Sysops Associate é uma história semelhante.
+É o mais difícil dos exames associados,
+Mas ainda tem uma sobreposição
+Onde o arquiteto trata de projetar e integrar,
+O SYSOPS é sobre fazer e encontrar falhas.
+É o mesmo escopo de produto em geral,
+Mas com um foco muito mais operações.
+E então, novamente, há eficiências que você pode alcançar
+fazendo isso logo depois
+O Solutions Architect Associate.
+Agora, se você decidir sobre esta rota neste momento,
+Você terá todos os associados,
+Algo que é conhecido na comunidade de certificação da AWS
+como todos os três.
+Então essa é a opção número um.
+E se você tomou a opção número um,
+O próximo passo é se mover
+para as certificações de nível profissional.
+Agora estes são muito mais difíceis do que os associados
+E os alunos geralmente podem falhar
+Porque eles subestimam
+Quanta diferença existe.
+Tradicionalmente. Você sempre fez todos os três associados
+Antes de tentar qualquer um dos profissionais.
+E uma das coisas que eu queria alcançar
+com meus novos cursos,
+é permitir que os alunos façam estudos baseados em fluxo.
+Isto é para começar com o Solutions Architect Associate
+e depois passe para o Solutions Architect Professional.
+Você ainda experimentará o salto em dificuldade,
+Esse sempre será o caso.
+Mas eu queria permitir o caminho que evita a necessidade
+Para fazer o desenvolvedor e o SYSOPS Associado.
+Você ainda pode fazer isso, mas apenas se quiser.
+Em nível profissional,
+Você precisa se preparar para o salto de dificuldade.
+Os exames são mais longos,
+As perguntas tendem a ser de quatro a cinco linhas,
+Existem quatro a cinco respostas
+e cada uma das respostas varia de duas a quatro linhas.
+Isso significa que você precisa ler, entender,
+Interprete e selecione a resposta ou respostas certas
+e faça isso de forma consistente por três horas.
+São 180 minutos.
+Então, apenas 50 a mais que o associado,
+Mas parecerá 10 vezes mais tempo.
+É um exame muito mais difícil.
+Agora, a ordem para fazer os exames profissionais
+também é um ponto de discórdia
+com muitos profissionais e treinadores da AWS.
+Para mim, é uma escolha fácil.
+Faça o arquiteto profissional primeiro,
+Porque a arquitetura está no centro de tudo.
+Mesmo se você tiver habilidades e experiência no espaço do DevOps,
+Você ainda precisará de um entendimento detalhado da AWS.
+E o mesmo acontece com o Solutions Architect Professional, primeiro,
+E então você pode terminar o tare profissional
+com o Exame Profissional de DevOps.
+Agora, com ambos, há sobreposição,
+Quando eu estava estudando para os dois
+Eu alquei três meses de estudo,
+estudou as áreas de assunto combinadas
+e então sentou os exames de semanas de intervalo.
+Eu queria essa eficiência.
+Mas neste momento, se você seguir a rota tradicional,
+Você terá cinco certificações,
+três associados, dois profissionais.
+E na comunidade, isso é conhecido como todos os cinco.
+Agora eu quero te dar um momento para fazer uma pausa
+e apenas reitera que os exames profissionais
+são realmente difíceis.
+Não pense que os associados
+são três em cada 10 dificuldade e os profissionais são cinco.
+Se todas as certificações da AWS estiverem em uma escala
+de um a 10, com os associados para três,
+Então os profissionais estão em 10.
+Pessoalmente, acho que os profissionais
+são mais difíceis do que os exames especializados,
+Por causa da amplitude do conhecimento que você precisará.
+As especialidades em teoria precisam de conhecimento mais profundo,
+Mas por causa de quão estreitamente focados eles estão,
+É mais fácil focar e reter o conhecimento
+que você precisa.
+Os exames profissionais são 300 dólares dos EUA.
+E então eles são muito mais caros
+do que as certificações associadas
+E esse é outro motivo
+para dar a eles o respeito que eles merecem
+E certifique -se de alcançar o passe pela primeira vez.
+Agora, porque eu sou um completista neste momento,
+Eu provavelmente iria voltar e pegar
+a certificação praticante, se você ainda não o fez,
+Apenas para completar as certificações baseadas em função.
+Você não precisa, mas sou muito obsessivo
+E para mim, tive que obter essa conclusão.
+Não ter apenas uma pesquisa estava me incomodando muito.
+Então, se for você também,
+enlouqueça e complete todos os certificados baseados em funções
+terminando com o praticante de nuvem.
+Agora, neste momento, minhas sugestões se tornam muito pessoais
+para sua situação.
+Os exames especializados podem exigir um esforço significativo,
+Ou eles podem ser relativamente fáceis,
+Se você já tem habilidades avançadas
+naquela área específica.
+Eles variam consideravelmente em dificuldade.
+A rede avançada é considerada a mais difícil
+e segurança ou Alexa é o mais fácil,
+Mas tudo depende do seu nível de habilidade.
+A ordem depende de suas habilidades.
+Se você é um engenheiro de rede,
+Você pode começar com a certificação avançada de rede,
+Embora você já tenha levado isso
+com base no que discuti anteriormente.
+Então, se você já tem habilidades nesta área em particular,
+então potencial, você pode fazer certas especialidades
+Antes de obter a certificação profissional de arquiteto.
+Depende de suas habilidades.
+Então os enfrente em ordem de quão difícil
+Você encontra os tópicos.
+Os exames especializados são um pouco mais curtos
+do que os profissionais.
+170 minutos, em vez de 180,
+Mas eles custam o mesmo.
+Estrutura de perguntas e respostas
+é semelhante aos níveis profissionais.
+Então, todos envolvem muita leitura e compreensão,
+Mas as perguntas testam seu entendimento muito mais profundo
+de habilidades nesse tópico de nicho específico.
+Agora anexado a este vídeo,
+Eu vinculei aos detalhes de todos os atuais
+Certificações da AWS.
+E vou manter isso atualizado como quaisquer alterações ou adições
+são feitos na programação.
+Você pode ver detalhes de cada certificação
+Dentro de cada um dos documentos de visão geral do exame
+e quando apropriado.
+Eu o vinculei a algumas perguntas de amostra,
+O que lhe dará uma idéia sobre complexidade.
+Também vale a pena mencionar que os exames
+também tem testes práticos pelos quais você pode pagar,
+que têm mais exemplos de perguntas.
+Agora, neste momento, espero que tenha sido útil,
+Mas isso é tudo que eu queria cobrir
+neste vídeo.
+Então vá em frente e complete este vídeo
+E espero falar com você novamente em um vídeo futuro.

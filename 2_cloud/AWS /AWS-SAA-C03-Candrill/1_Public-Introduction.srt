@@ -1,0 +1,39 @@
+Bem -vindo a este curso de Associado de Arquitetos de Soluções Certificadas da AWS, projetado do zero para a nova versão 2022 da certificação.
+E para deixar sua mente à vontade, isso inclui a última grande revisão, SAAC03.
+Olá, sou Adrian, e cerca de sete anos atrás me tornei uma das primeiras pessoas do mundo a me certificar com a AWS.
+Desde então, completei todas as certificações da AWS e posso dizer honestamente que isso mudou minha vida para melhor de muitas maneiras.
+Nos últimos cinco anos, orientei e treinei centenas de milhares de estudantes como você,
+Eu os ajudei a alcançar a certificação e, mais importante, estive lá quando começaram a diversão e os papéis desafiadores na AWS.
+Agora, este curso fornecerá a confiança, as habilidades e a experiência de que você precisa passar no exame de associado de arquitetos de soluções certificadas.
+Mas, além disso, as habilidades que você precisa para se envolver em projetos da AWS em nível técnico sênior.
+Este curso é ideal para quem quer se tornar um arquiteto da AWS Solutions
+e funciona tão bem, independentemente de você ser um engenheiro técnico experiente
+Ou alguém querendo mudar de carreira para a AWS. Começaremos com os fundamentos, olhando para o núcleo
+Serviços e arquiteturas da AWS que você usará dia a dia. Coisas como nuvem privada virtual,
+o serviço de computação elástica e o serviço de armazenamento simples. Depois de entender o essencial,
+Vamos construir sobre isso trabalhando com uma série de teoria emocionante e lições práticas que abrangem
+coisas como o serviço de banco de dados relacional, produtos de armazenamento de rede, como
+EFS e você aprenderá a executar contêineres do Docker na AWS com o meu emocionante
+Lição de demonstração de contêineres de gatos. Agora porque eu quero que você tenha cada
+vantagem possível, abordarei arquiteturas progressivas, como
+Arquiteturas sem servidor sem eventos e micro serviços. Você aprenderá como
+Para usá -los com confiança na plataforma da AWS, para qualquer amante de animais que você receberá
+Para implementar um aplicativo real sem servidor, o Cuddlytron de estimação, que é
+construído usando uma variedade de produtos sem servidor da AWS. Para ter certeza de que você está realmente
+valioso no mundo real e para ajudá -lo no exame, você aprenderá sobre
+Arquiteturas híbridas para que você possa combinar a AWS com seus negócios existentes
+ambientes e você aprenderá a implementar arquiteturas elásticas super escaláveis ​​e como
+Escalar aqueles de uma maneira altamente disponível e tolerante a falhas. Eu criei e usei outros online
+Cursos e eu realmente acredito que este é o melhor curso se você quiser alcançar o sucesso do exame
+e aprenda as habilidades necessárias para se destacar como um arquiteto da AWS Solutions. Agora este curso inclui
+Mais de 70 horas de lições teoria que me permitem entrar em mais profundidade e cobrir uma gama mais ampla de tópicos
+do que minha competição. Eu incluí uma gama emocionante de aulas de demonstração prática que lhe dão
+Experiência prática que o ajudará em entrevistas de emprego. Você encontrará o curso cheio de ricos
+Aprendia de aprendizado visual para ajudar o conhecimento realmente a manter, algo que você apreciará quando estiver
+no exame. Agora, no final do curso, incluí duas lições dedicadas no exame e no exame
+Técnica de perguntas para ajudá -lo a obter os resultados que você merece. E para que você saiba quando estiver
+Pronto para o exame real, o curso tem dois testes de prática em perguntas sobre o exame que
+Espelhe os que estão no exame real. Agora este curso inclui uma garantia de devolução do dinheiro de 14 dias, então você
+Realmente não tem nada a perder. Eu amo meu trabalho e quero ajudá -lo a alcançar o mesmo tipo de vida
+Mudando o aprendizado que passei. Agora, obrigado por reservar um tempo para assistir isso,
+Estou muito animado, então, por favor, vá em frente e me inscreva e vejo você por dentro.

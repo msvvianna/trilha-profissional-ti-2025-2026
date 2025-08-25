@@ -1,0 +1,277 @@
+Bem -vindo a esta lição
+onde eu quero falar sobre a organização fictícia
+Estarei usando ao longo do curso, Animals4life.
+Eu quero todas as situações, arquitetura e demonstração
+Neste curso de ter uma base no mundo real
+e eu quero fazer isso para ajudá -lo a visualizar
+e entenda o porquê por trás das coisas
+discutiremos e implementaremos juntos.
+Para fazer isso, eu queria criar um cenário.
+Então Animal4life é o cenário
+Que eu estarei usando ao longo do curso.
+Então, antes de começarmos com o curso,
+Eu quero passar rapidamente pelo cenário
+E não se preocupe, vai ser alto, de alto nível,
+Então, vou mantê -lo breve.
+Agora, Animal4life é um resgate de animais
+e organização de conscientização.
+Dependendo da região,
+Eles estão envolvidos com resgate de animais locais e cuidados médicos
+e depois re-homing de animais domésticos
+ou trabalho de habitat para animais selvagens.
+Agora, eles são uma organização progressiva
+E eles estão envolvidos em muitos trabalhos de monitoramento.
+Portanto, podem ser coisas como monitorar a migração de animais,
+bem como monitorar qualquer destruição de habitat
+que está acontecendo em todo o mundo.
+E assim, o trabalho que a empresa envolve
+bem como grandes conjuntos de dados.
+Agora, eles são uma empresa global com uma sede
+Em Brisbane, abriga mais de 100 funcionários.
+Agora, isso cobre operações compartilhadas.
+Então é um call center, administração geral,
+Equipe de TI, marketing, legal e contas.
+Além de Brisbane, existem 100 trabalhadores de campo remotos
+que são destacados na Austrália Regional
+e vários locais na necessidade globalmente.
+Agora, esses funcionários remotos são uma mistura
+de trabalhadores de cuidados com animais, veterinários e cientistas de pesquisa
+envolvido no trabalho de coleta de dados.
+Além disso, a organização tem um número
+da equipe de lobby política para influenciar a política do governo.
+O negócio tem grandes escritórios em Londres,
+bem como na costa leste e oeste dos EUA,
+Especificamente, Nova York e Seattle.
+Agora, a infraestrutura técnica atual da empresa
+é uma bagunça.
+Eles têm um pequeno center em local em Brisbane,
+bem como várias instalações de colo
+onde eles alugam um total de cinco prateleiras de espaço.
+O data center é antigo e a empresa que os gerencia
+está incentivando os clientes a migrar o mais rápido possível.
+Agora, Animallife já teve um fornecedor
+Ajudando o negócio a administrar um piloto da AWS
+na região de Sydney Aws,
+Mas foi muito implementado
+E não forneceu a resiliência
+e escalabilidade necessária para os negócios.
+Além disso, o mesmo fornecedor os ajudou
+Com alguns pilotos isolados do Microsoft Azure e do Google Cloud.
+Todos eles eram abaixo do ideal
+e não forneceu as capacidades
+que os negócios precisavam.
+Agora, todos os escritórios globais dos negócios,
+bem como seus trabalhadores de campo móvel
+Consuma serviços do escritório de Brisbane.
+Animais4life é muito consciente de custo,
+mas igualmente muito progressista e disposto a experimentar coisas novas
+e adotar novas tecnologias
+Contanto que tenha um benefício comercial.
+Visualmente, a operação AnimalLife
+Parece algo assim.
+Primeiro, temos a sede
+com sede em Brisbane, Austrália.
+Agora, este local lida com a maioria da equipe de administração principal
+e serviços de negócios compartilhados,
+Além da infraestrutura principal.
+De uma perspectiva técnica,
+A rede local usa o intervalo de endereços 192.168.10.0.
+É um espaço de endereço de 24 ou classe C de classe C.
+Agora, não se preocupe se você não souber o que isso significa,
+Eu estarei cobrindo mais tarde no curso.
+Além disso, um piloto AWS anterior anteriormente projetado
+Usa a faixa 10.0.0.0/16
+E também temos um piloto anterior do Azure
+que utiliza 172.31.0.0/16,
+que novamente é uma rede de classe B.
+Agora, todos eles se tornarão relevantes
+À medida que olhamos para as possíveis soluções de negócios
+mais tarde no curso.
+Por enquanto, eu só quero que você os mantenha em mente.
+O negócio tem três grandes escritórios não australianos,
+um em Londres cobrindo a região da UE
+e depois a costa leste e oeste dos EUA,
+Um fato importante a ter em mente é que
+Esses escritórios remotos atualmente consomem os serviços de TI
+Fornecido pela sede de Brisbane,
+o que está provado ser menos do que o ideal
+de uma perspectiva de desempenho.
+Agora, um elemento bastante único para este tipo de negócio
+é que emprega um grande grupo de trabalhadores de campo
+que têm habilidades variadas e funções de trabalho.
+Alguns desses trabalhadores de campo são ativistas dos direitos dos animais,
+Alguns são cientistas de dados
+ou consultores de coleta de informações.
+Alguns deles estão trabalhando em projetos da Internet das Coisas,
+Alguns no aprendizado de máquina
+ou alguns fazendo projetos de big data em campo.
+Eles carregam vários pedaços de equipamento
+incluindo um laptop robusto com 3G, 4G
+ou conectividade de satélite.
+Eles precisam fazer upload e baixar dados
+que varia em tamanho e complexidade.
+Pode ser um e -mail e acesso ao arquivo.
+Pode ser um software de bate -papo e planejamento
+ou mesmo grandes conjuntos de dados de pesquisa.
+Agora, quaisquer que sejam as implementações que discutimos ou usamos
+ao longo do curso precisará apoiar
+a atividade de trabalho desses trabalhadores.
+E por causa dos fusos horários variados,
+A plataforma Animal4Life precisa estar disponível
+o tempo todo.
+A natureza do trabalho que esses trabalhadores remotos de campo fazem
+significará que qualquer interrupção afetará massivamente
+sua capacidade de proteger e trabalhar com animais.
+Então, vamos falar um pouco sobre os problemas
+que o negócio está enfrentando.
+Em primeiro lugar, o negócio está usando hardware local
+E está falhando.
+O hardware está chegando ao fim da vida
+e o data center a infraestrutura está atualmente em
+está sendo desativado em 18 meses.
+E o negócio está sendo solicitado a migrar para fora
+O mais breve possível.
+Novo investimento é necessário, mas o negócio está em uma encruzilhada
+quanto a usar mais local,
+Azure Cloud ou AWS Infrastructure.
+Agora, os experimentos anteriores da empresa com AWS e Azure
+Fiquei bagunçado para dizer o mínimo
+E eles não foram práticas recomendadas.
+O negócio realmente não alcançou nenhuma redução de custo
+Nos ensaios limitados que eles executaram
+e a confiabilidade parecia não oferecer melhorias
+sobre os sistemas atuais no local.
+Temos a questão de que os trabalhadores de campo
+Use a infraestrutura fornecida no escritório de Brisbane.
+Por causa de sua distância, o desempenho é sempre abaixo do ideal
+E esse é o melhor caso.
+Na pior das hipóteses, o sistema está inativo para manutenção
+Durante o que é noite e manhã cedo em Brisbane
+Mas horas de trabalho normais para eles.
+O negócio sempre lutou
+Com a implementação de sistemas altamente disponíveis
+E definitivamente luta com a escalabilidade.
+A empresa gosta de implantar sistemas que são magros
+e de tamanho adequado
+e lutas com períodos de pico ou quando o hardware falha.
+Historicamente, isso os impediu
+de executar projetos progressivos
+ou campanhas maiores de mídia social.
+E para acrescentar a isso, os funcionários de negócios uma pequena equipe de TI
+que têm experiência no espaço local,
+mas lute para usar a automação
+ou ambientes de nuvem de maneira eficaz.
+No passado, os fornecedores foram trazidos para ajudar
+Mas a experiência não foi ideal
+Devido à má escolha do fornecedor.
+Como um negócio global, o AnimalLife tem um passeio há muito tempo
+expandir globalmente para apoiar mais efetivamente
+suas operações não australia.
+Localização de espaço de infraestrutura em um data center,
+bem como comprar e implantar
+A infraestrutura internacional provou
+ser muito caro
+E isso limitou sua capacidade de crescer.
+Agora, todos esses são fatores bastante comuns
+afetando uma empresa que não está usando computação em nuvem.
+Ao longo do curso, abordaremos as principais áreas de preocupação
+e veja como a AWS pode ser usada para remediar
+o maior número possível.
+Em um nível alto, o que a empresa deseja alcançar
+ou para colocar de outra maneira, quais são seus ideais,
+estão relacionados a esses problemas.
+O negócio requer desempenho rápido
+Para todos os seus trabalhadores de campo.
+Estas são as pessoas no chão
+Implementando a missão principal da empresa
+E eles precisam ser capazes de fazer esse trabalho
+sem ser limitado pelos sistemas que os negócios usam.
+Para atender ainda mais a essas demandas,
+o negócio precisa ser capaz de implantar rapidamente
+em novas áreas do mundo
+como as operações nessa área são necessárias.
+Idealmente, isso deve ser alcançável de uma maneira automatizada
+Usando o faturamento de pagamento conforme o uso.
+É um esclarecimento importante
+que em algumas áreas do mundo,
+Se um desastre natural acontecer,
+o negócio pode precisar de capacidade
+por semanas ou meses antes disso, diminui.
+Idealmente, por meio de automação e faturamento baseado em uso,
+A infraestrutura pode ser provisionada e desprovisionada
+Para atender às necessidades básicas do negócio.
+Portanto, a infraestrutura seria feita rapidamente
+Para atender a uma necessidade comercial
+e depois rasgado quando não for necessário mais.
+Agora, o negócio é incrivelmente consciente do custo.
+Ele quer usar seus fundos limitados para ajudar os animais necessitados.
+E tão idealmente, o custo base
+Para a plataforma de infraestrutura, deve ser o mais próximo de zero
+quanto possível ao atender aos seus requisitos.
+Mas precisa ser escalável o suficiente
+para crescer rapidamente quando necessário.
+A equipe principal para o trabalho de negócios de maneiras muito sazonais
+E muitas vezes, como acabei de mencionar,
+Eles têm que reagir a cenários de desastre
+afetando várias regiões de habitat globalmente.
+A infraestrutura precisa ser capaz de crescer
+e encolher para lidar com isso.
+A agilidade é especialmente importante para os animais4life.
+O negócio geralmente precisa alavancar eventos do mundo real,
+Então, lançando campanhas de mídia social
+em pouco tempo para chamar a atenção
+para desastres ou outros problemas em todo o mundo.
+Tudo o que a empresa faz precisa ser capaz
+Para ser provisionado rapidamente, às vezes dentro de 48 horas.
+Qualquer coisa implantada deve escalar rapidamente à medida que a demanda muda.
+Vale a pena notar que o negócio é muito progressivo
+E quer fazer uso de tecnologias emergentes
+como Internet das Coisas, Big Data,
+aprendizado de máquina, análise e muito mais.
+Portanto, quaisquer soluções usadas devem apoiar isso.
+E então, por último, relacionado a muitos dos pontos existentes,
+Automação é fundamental.
+A empresa deseja concentrar seu financiamento na equipe principal,
+funcionários que cumprirão a missão da organização.
+Qualquer coisa gasta nisso, finanças, legal,
+Eles estão apenas apoiando funções
+e sempre que possível, esses custos devem ser minimizados.
+A automação deve ser usada sempre que possível
+Para minimizar a necessidade de equipe de TI adicional
+dentro do negócio.
+Você pode se sentir tendo ouvido esta lição
+que você tem uma boa impressão do negócio de animais4life
+Mas você também pode sentir que estão falta certas áreas.
+E em ambos os casos, você estaria certo e errado
+ao mesmo tempo.
+Definitivamente faltam coisas
+E existem áreas que têm informações suficientes.
+Parte da jornada através deste curso
+estará aprendendo quais áreas estão faltando,
+Quais áreas precisam de mais informações
+E assim, se você fizer esse tipo de trabalho no mundo real,
+você saberá quando fazer perguntas
+E mais importante, quais questões.
+Em uma situação de estilo de exame, ao longo deste curso,
+você estará aprendendo a ler perguntas do exame,
+Como interpretá -los
+e como escolher quais pedaços de informação são relevantes
+e o que não é.
+Todas as perguntas do exame da AWS são baseadas
+em situações do mundo real.
+E assim, fornecendo esse cenário no curso,
+Espero te dar alguma exposição
+para como fazer implantações do mundo real
+e arquiteto do mundo real dentro da plataforma da AWS.
+Agora, isso é tudo que eu queria cobrir nesta fase.
+Ao longo do curso, usaremos este cenário
+Ao passar pela teoria arquitetônica
+de produtos e serviços da AWS
+e onde fazemos demos, eles serão relacionados
+para o cenário discutido neste vídeo.
+Eu sempre achei melhor basear as coisas
+em torno do mundo real como cenários.
+Então, esperançosamente, você encontra o mesmo.
+Agora, obrigado por assistir.
+Neste ponto, vá em frente e complete este vídeo
+E quando estiver pronto, você pode se juntar a mim no próximo.
